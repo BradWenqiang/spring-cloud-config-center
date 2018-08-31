@@ -1,2 +1,5 @@
 info:
   profile: default*update
+  # master分支修改了文件
+  # 为什么test分支看见了不应该看见的东西
+  # 解决冲突并提交代码
